@@ -1,7 +1,6 @@
 # build output
 dist/
 tasks/
-drafts/
 
 # dependencies
 node_modules/
