@@ -1,0 +1,2 @@
+### Embryo Limits
+Human Embryos grown in labs have a 14 day (called Blastocyst) limit since beyond this 14 days, they develop something called a 'Primitive Streak', this is a point where the basic building blocks start differentiating themselves and this is also the point where becoming twins is no longer possible and therefore individuality is assigned. This 14 day limit is now in >12 countries a Law
