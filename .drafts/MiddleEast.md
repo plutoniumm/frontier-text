@@ -25,22 +25,8 @@ Countries taken as middle east
 - Oman
 - Yemen
 
-# Specific
 
-## Saudi Arabia
-After almost 3 decades of inter tribal conflict Abdul Aziz was able to unify all his dominion tribes into one single national country, saudi Arabia. It soon turned out that saudi had the single largest proven oil field on Earth. There was immense prosperity in the time that followed.
-
-### Rule
-The ruling party however remained a monarchy with Abdul Aziz and his sons and their brothers ruling. With the condition that if the monarchy supported the people financially then the people would support the monarchy politically.
-
-Riyadh was able to build foreign hotels, bring in consulting firms, provide housing etc etc. Oil prices traded on an all time high in 2008.
-
-### Neom
-saudi Arabia is building Neom. A linear city where living is in 3 levels. The ground level is the citizens and greenery. The -1 level is commercials and -2 level is services (like transportation). The city aims to be fully sustainably run.
-
-A linear city has been tried before also in Brazil. The city Brasilia was supposed to be linear but it did not work out to be so due to high prices along the line. As a result of which new satellite cities started forming up in the end breaking the linear model.
-
-## Israel
+# Israel
 The war this time around is mainly due to a region called Sheikh Jarra. Palestinians have been protesting to live in the city claiming it as theirs since centuries. 8th May saw a Palestinian public vs israeli police riot near Al Aqsa Masjid.
 
 ### History

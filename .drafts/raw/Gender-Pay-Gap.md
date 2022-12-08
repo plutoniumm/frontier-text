@@ -32,7 +32,7 @@ The effect for Neuroticism (with females scoring higher than males) begins to ta
 **Citation**: [*American Psych Assoc*](https://psycnet.apa.org/record/2015-00656-005)
 
 
-Results showed that men prefer working with things and women prefer working with people, producing a large effect size (d = 0.93) on the Things–People dimension. Men showed stronger Realistic (d = 0.84) and Investigative (d = 0.26) interests, and women showed stronger Artistic (d = −0.35), Social (d = −0.68), and Conventional (d = −0.33) interests. Sex differences favoring men were also found for more specific measures of engineering (d = 1.11), science (d = 0.36), and mathematics (d = 0.34) interests. Average effect sizes varied across interest inventories, ranging from 0.08 to 0.79.
+Results showed that men prefer working with thingsA33) interests. Sex differences favoring men were also found for more specific measures of engineering (d = 1.11), science (d = 0.36), and mathematics (d = 0.34) interests. Average effect sizes varied across interest inventories, ranging from 0.08 to 0.79.
 **Citation**: [*American Psych Assoc*](https://psycnet.apa.org/record/2009-19763-004)
 
 # Studies
